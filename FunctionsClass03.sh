@@ -10,11 +10,13 @@
 # Declaration of functions
 # Function that prints login history and prints "This is the login history" to screen
 print_login_history () {
-last
- echo "this is login history"
+    last
+    echo "this is login history"
 }
 
 
 # Main
 # call the function
+print_login_history
+print_login_history
 print_login_history
