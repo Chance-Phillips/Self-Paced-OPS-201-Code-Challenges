@@ -3,7 +3,7 @@
 # Script Name:                  Arrays.sh
 # Author:                       Chance Phillips
 # Date of latest revision:      01/27/2024
-# Purpose:                      Automate run "helloworld"
+# Purpose:                      Reference array
 
 # Declaration of variables
 
